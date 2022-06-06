@@ -47,7 +47,7 @@
 
 <p align="center">
 
-    <a href="https://git">
+    <a href="(https://git.io/J0hKr)">
 
         <img
 
