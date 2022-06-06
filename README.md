@@ -23,6 +23,40 @@
   <a href="https://github.com/LOSTHACKEROFC/#thanks-to">Thanks to</a>
 </p>
 </div>
+<br>
+
+       | © |
+
+        Reserved |
+
+    <br> 
+
+</p>
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LOSTHACKEROFC/filov2&title=Profile%20Views)
+
+----
+
+<p align="center">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexusNw&show_icons=true&theme=dark&locale=en&layout=compact" alt="LOST HACKER" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LOST HACKER&show_icons=true&theme=dark&locale=en" alt="LOST HACKER" /></p>
+
+ ## <!-- Typing SVG -->
+
+<p align="center">
+
+    <a href="https://git">
+
+        <img
+
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=𝚃𝚑𝚊𝚗𝚔𝚜+𝚏𝚘𝚛+𝙲𝚘𝚖𝚒𝚗𝚐❤︎."
+
+            alt="Typing SVG"
+
+</p>
+
 
 ```
 
