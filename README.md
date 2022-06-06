@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://instagram.com/chirag__bhatnagar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/919536476115"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="chirag-youtuber-chirag.on.drv.tw/site"><img scr="https://img.shields.io/badge/website-E4405F?style=for-the-badge&logo=WEBSITE&logoColor=white"/>
+<a href="chirag-youtuber-chirag.on.drv.tw/site"><img scr="https://img.shields.io/badge/webpage-E4405F?style=for-the-badge&logo=WEBSITE&logoColor=white"/>
     </p>
 
 ## <!-- Typing SVG -->
