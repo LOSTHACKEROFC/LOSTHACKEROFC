@@ -16,7 +16,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=💞𝐋𝐎𝐒𝐓 𝐇𝐀𝐂𝐊𝐄𝐑💞;IS+ALWAYS+HERE+FOR+YOUR+HELP."alt="Typing SVG"
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=𝐋𝐎𝐒𝐓 𝐇𝐀𝐂𝐊𝐄𝐑;IS+ALWAYS+HERE+FOR+YOUR+HELP."alt="Typing SVG"
  </a>
 </p>
     </a>
