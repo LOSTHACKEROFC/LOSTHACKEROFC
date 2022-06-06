@@ -6,6 +6,8 @@
 
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/LCy6Gzb/IMG-20220531-155604-202.jpg" width="200" height="200"/>
+<a href="https://youtube.com/c/chiragyoutuber"><img border-radius: 15px src="logo.jpg" width="200" height="200"/>
+
 
 <p align="center">
   <a href="https://instagram.com/chirag__bhatnagar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
