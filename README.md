@@ -14,16 +14,11 @@
   <a href="https://wa.me/919536476115"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="chirag-youtuber-chirag.on.drv.tw/site"><img scr="https://img.shields.io/badge/webpage-E4405F?style=for-the-badge&logo=WEBSITE&logoColor=white"/>
     </p>
+### Hi there 👋
+## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=0A0089&size=20&width=350&lines=This+is+CHIRAG+YOUTUBER;+come+here+again;Thanks+for+visiting+Here)](https://git.io/typing-svg) <br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LOSTHACKEROFC&label=Visitors%20count&color=10d9c3&style=plastic" alt="LOST-HACKER" /> </p>
 
-## <!-- Typing SVG -->
-<p align="center">
-    <a href="https://git.io/J0hKr">
-        <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=𝐋𝐎𝐒𝐓 𝐇𝐀𝐂𝐊𝐄𝐑;IS+ALWAYS+HERE+FOR+YOUR+HELP."alt="Typing SVG"
- </a>
-</p>
-    </a>
-##🥰🇮🇳 CODING ##
+##🥰🇮🇳 CODING
 <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
 </br
 </details>
