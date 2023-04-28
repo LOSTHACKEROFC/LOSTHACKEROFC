@@ -12,6 +12,9 @@
 
 <p align="center"><a href="https://github.com/LOSTHACKEROFC"><img title="LOST HACKER" src="https://github-readme-stats.vercel.app/api?username=LOST-HACKER&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
+ <p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="LOST HACKER" src="https://user-images.githubusercontent.com/49580304/117566137-7a83a280-b0d2-11eb-8153-91e45df98ca8.gif"></a>
+
+</p> 
 </p>
 <p align="center">
   <a href="https://instagram.com/chirag__bhatnagar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
